@@ -2,14 +2,9 @@
 <h3 align="center">Front-End Developer</h3>
 
 - 🔭 I’m currently studing computer science at **Universidad Europea** 
-- 🔭 I’m currently teaching **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Some of my fun projects are available at [https://frabjous-moonbeam-fce309.netlify.app/]
-
-- 📝 I write tech blogs on [https://medium.com/@sukuzhanay](https://medium.com/@sukuzhanay)
-
-- 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, SQL, Data Engineering, BigQuery, Ionic, **
 
 - 📫 How to reach me **sukuzhanay@gmail.com**
 
