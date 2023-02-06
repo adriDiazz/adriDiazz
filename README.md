@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Diaz Manzanares</h1>
-<h3 align="center">BI & Big Data Engineer | Data Science</h3>
+<h3 align="center">Front-End Developer</h3>
 
 - 🔭 I’m currently studing computer science at **Universidad Europea** 
 - 🔭 I’m currently teaching **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
