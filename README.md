@@ -49,8 +49,7 @@
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="  https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png
-      "
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"
       alt="html5"
       width="40"
       height="40"
