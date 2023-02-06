@@ -5,7 +5,7 @@
 - 🔭 I’m currently teaching **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
 - 🌱 I’m currently learning ****
 
-- 👨‍💻 Some of my fun projects are available at [https://sukuzhanay.me/]
+- 👨‍💻 Some of my fun projects are available at [https://frabjous-moonbeam-fce309.netlify.app/]
 
 - 📝 I write tech blogs on [https://medium.com/@sukuzhanay](https://medium.com/@sukuzhanay)
 
