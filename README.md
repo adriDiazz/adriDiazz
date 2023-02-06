@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adrian Diaz Manzanares</h1>
 <h3 align="center">Front-End Developer</h3>
 
-- 🔭 I’m currently studing computer science at **Universidad Europea** - 🌱 I’m
-currently learning **React** - 👨‍💻 Some of my fun projects are available at
-[https://frabjous-moonbeam-fce309.netlify.app/] - 📫 How to reach me
-**adriandiazmanzanares9@gmail.com**
+- 🔭 I’m currently studing computer science at **Universidad Europea** 
+- 🌱 I’m currently learning **React** 
+- - 👨‍💻 Some of my fun projects are available at [https://frabjous-moonbeam-fce309.netlify.app/] 
+- - 📫 How to reach me **adriandiazmanzanares9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
